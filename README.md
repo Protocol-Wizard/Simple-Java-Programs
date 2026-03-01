@@ -1,2 +1,2 @@
-# Simple Java Codes
-This is where I store all my simple Java codes :)
+# Simple Java Programs
+This is where I store all my simple Java programs :)
